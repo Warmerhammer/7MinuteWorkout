@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">7MinuteWorkout</string>
+    <string name="image">Image</string>
+    <string name="str_start">START</string>
+    <string name="Get_Ready_For"><small>Get ready for</small> <big><b>%1$s!</b></big></string>
+    <string name="exercise_completed">EXERCISE COMPLETED</string>
+
+</resources>
